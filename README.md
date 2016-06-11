@@ -9,3 +9,4 @@
 5. vimrc setting 
 6. pip install
 7. virtualenv , virtualenvwrapper install
+8. gitup, ack 
