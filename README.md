@@ -8,5 +8,7 @@
 4. zsh 및 oh-my-zsh 설치 (http://minjiyang.tistory.com/79)
 5. vimrc setting 
 6. pip install
+    $ sudo easy_install pip
+    $ pip
 7. virtualenv , virtualenvwrapper install
 8. gitup, ack 
