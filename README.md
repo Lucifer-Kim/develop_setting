@@ -18,3 +18,6 @@
     $ sudo pip install virtualenvwrapper
     ```
 8. gitup, ack
+    ```
+    $ brew install ack
+    ```
